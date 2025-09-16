@@ -59,7 +59,7 @@ jobs:
         #  os_patch_level: "2023-04"
         #  revision: "r9"
         - sub_level: "168"
-          os_patch_level: "2024-01"
+          os_patch_level: "2023-04"
           revision: "r17"
         #- sub_level: "205"
         #  os_patch_level: "2024-03"
