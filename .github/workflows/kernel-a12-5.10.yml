@@ -57,7 +57,7 @@ jobs:
         #   revision: "r15"
         - sub_level: "168"
          os_patch_level: "2023-04"
-         revision: "r9"
+         revision: "r7"
         - sub_level: "198"
           os_patch_level: "2024-01"
           revision: "r17"
